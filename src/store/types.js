@@ -1,0 +1,5 @@
+export const SET_USERS = 'SET_USERS'
+export const SELECT_USER = 'SELECT_USER'
+export const IS_LOADING = 'IS_LOADING'
+export const HAS_ERROR = 'HAS_ERROR'
+export const FILTER_USERS = 'FILTER_USERS'
